@@ -6,4 +6,4 @@ This is the official repository of the The Researcher's Herald newsletter series
 Enjoy!
 
 ## Newsletter content:
-* Issue #1: Chairing a Conference Session: Scary business? Perhaps Not!
+* Issue #1: Chairing a Conference Session: Scary business? Perhaps Not! (8-AUG-2024)
