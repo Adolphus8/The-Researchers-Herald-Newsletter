@@ -7,3 +7,4 @@ Enjoy!
 
 ## Newsletter content:
 * Issue #1: Chairing a Conference Session - Scary business? Perhaps Not! (8-AUG-2024)
+* Issue #2: Finding Your Voice (and Your Visibility) (16-NOV-2025)
